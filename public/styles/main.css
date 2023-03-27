@@ -59,7 +59,7 @@ h1 {
 }
 
 .background-cover {
-  background: url("/public/images/2152.jpg");
+  background: url("../../assets/images/2152.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
